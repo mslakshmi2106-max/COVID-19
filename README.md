@@ -11,7 +11,9 @@ To visualize data using graphs
 Tools & Technologies
 
 Python
+
 Google Colab
+
 Libraries:
   Pandas
   NumPy
